@@ -1,0 +1,6 @@
+framework module CredentialValidator {
+  umbrella header "CredentialValidator.h"
+  export *
+
+  module * { export * }
+}
